@@ -1,0 +1,1 @@
+This repository contains a simple Python program that demonstrates an uncommon error, specifically a ZeroDivisionError. The goal is to showcase the importance of proper error handling in programming. The included solution file provides a more robust and user-friendly approach to handling such errors.
